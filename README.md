@@ -8,7 +8,7 @@ Please include your final project presentation in your project repository.
 
 ### Step-2:
 Fill and submit the google form by clicking on link below.  
-[GDP-Projects]
+[GDP-Projects](https://docs.google.com/forms/d/e/1FAIpQLSfODslX0dkA_khhUNWtUMVQht_WBuqEoEidyrA95xGIUUtvXg/viewform)
 ### Step-3:
 * After submitting the google form, please notify to the MS-ACS office at [msacs@nwmissouri.edu].
 * Copy all the team members, the program coordinator Dr. Ajay Bandi, and your instructor in the email. 
